@@ -13,5 +13,9 @@ To Run the code:
 
 1. Cloce the github repository in your computer. https://github.com/abhiu10garg/expert_session_one_-abhiu-garg-.git
 
-2. Run dataPreperation.ipynb file 
+2. Run dataPreperation.ipynb file in which train.csv file will trained.
+
+3. Run DataBaseSearch.ipynb file to search weather people survive or not.
+
+4. That's it.
 
